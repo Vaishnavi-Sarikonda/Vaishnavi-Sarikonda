@@ -1,5 +1,5 @@
 👋 Hi, I’m Vaishnavi Sarikonda (aka @Vai-sh-navi)
-Software Engineer & Analytics Engineer with 3.5+ years of experience building scalable applications, data pipelines, and analytics solutions across enterprise environments.
+Software Engineer with 3.5+ years of experience building scalable applications, data pipelines, and analytics solutions across enterprise environments.
 
 🎓 Education
 Master of Science in Computer Science — Texas Tech University
