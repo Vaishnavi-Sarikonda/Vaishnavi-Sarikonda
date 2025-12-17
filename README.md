@@ -3,7 +3,7 @@ Software Engineer with 3.5+ years of experience building scalable applications, 
 
 🎓 Education
 Master of Science in Computer Science — Texas Tech University
-Focus areas: Data Engineering, Analytics, Business Intelligence, and Software Development
+Focus areas: Machine Learning and Software Development
 
 💼 About Me
 
